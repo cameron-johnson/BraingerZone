@@ -64,10 +64,6 @@
 		<texture>topbottom2.checkmates.rgb</texture>
 	</animation>
 
-	<model>
-		<path>canvas-test.xml</path>
-	</model>
-
 	<!-- Pilot and Seat -->
 	<model>
 		<path>Aircraft/f-14b/Models/Cockpit/mkgru-7.xml</path>
