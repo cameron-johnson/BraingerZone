@@ -2,12 +2,12 @@
 
 <PropertyList>
 
- <path>Aircraft/Instruments-3d/canvas-test/CMDU.ac</path>
+ <path>Aircraft/f-14b-modded/Models/mod/mod.ac</path>
  <offsets>
    <heading-deg>90</heading-deg>
-   <roll-deg>75</roll-deg>
+   <roll-deg>0</roll-deg>
    <pitch-deg>0</pitch-deg>
-   <x-m>-5.7491 </x-m>
+   <x-m>-5.7591 </x-m>
    <y-m>-0.0 </y-m>
    <z-m>0.3375</z-m>
  </offsets>

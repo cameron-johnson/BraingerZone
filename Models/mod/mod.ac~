@@ -1,0 +1,24 @@
+AC3Db
+MATERIAL "Screen" rgb 1.0000 1.0000 0.1000  amb 0.1500 0.1500 0.1500  emis 0.6000 0.6000 0.6000  spec 0.7000 0.75000 0.7000  shi 60 trans 0.0
+OBJECT world
+name "Blender_export__CMDU.ac"
+kids 1
+OBJECT poly
+name "PFD-Screen"
+loc 0.0000000 0.0000000 0.0000000
+texture "screen-test.png"
+texrep 1 1
+numvert 4
+-0.3 0.0 0
+0.3 0.0 0
+0.3 -0.3 0
+-0.3 -0.3 0
+numsurf 1
+SURF 0x20
+mat 2
+refs 4
+3 0 0
+2 1 0
+1 1 1
+0 0 1
+kids 0

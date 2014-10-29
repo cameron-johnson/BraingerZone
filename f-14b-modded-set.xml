@@ -1363,6 +1363,9 @@
 		<mod>
 			<file>Aircraft/f-14b-modded/Nasal/mod.nas</file>
 		</mod>
+		<mod2>
+			<file>Aircraft/f-14b-modded/Nasal/canvas-test.nas</file>
+		</mod2>
 	</nasal>
 
 </PropertyList>
